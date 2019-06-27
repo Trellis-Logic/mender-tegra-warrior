@@ -1,0 +1,12 @@
+[submodule "sources/meta-mender-community"]
+	path = sources/meta-mender-community
+	url = git@github.com:Trellis-Logic/meta-mender-community.git
+[submodule "sources/meta-mender"]
+	path = sources/meta-mender
+	url = git@github.com:Trellis-Logic/meta-mender.git
+[submodule "sources/poky"]
+	path = sources/poky
+	url = git://git.yoctoproject.org/poky
+[submodule "sources/meta-tegra"]
+	path = sources/meta-tegra
+	url = https://github.com/madisongh/meta-tegra.git
