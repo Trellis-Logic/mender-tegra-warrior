@@ -9,4 +9,4 @@
 	url = git://git.yoctoproject.org/poky
 [submodule "sources/meta-tegra"]
 	path = sources/meta-tegra
-	url = https://github.com/madisongh/meta-tegra.git
+	url = https://github.com/Trellis-Logic/meta-tegra
